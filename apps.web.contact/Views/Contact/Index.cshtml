@@ -1,0 +1,10 @@
+﻿@using contact = maxtoroq.apps.web.contact;
+@model contact.IndexViewModel
+
+@using (Html.BeginForm()) { 
+   @Html.AntiForgeryToken()
+   var inputHtml = contact.HtmlUtil.HtmlHelperFor(Html, Model.InputModel);
+   @inputHtml.EditorForModel()
+
+   <input type="submit" />
+}
