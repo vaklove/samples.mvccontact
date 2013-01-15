@@ -6,7 +6,7 @@ using System.Web;
 
 namespace Samples.Models {
    
-   public class CustomContactInput : maxtoroq.apps.web.contact.ContactInput {
+   public class CustomContactInput : apps.web.contact.ContactInput {
 
       [Required]
       [Display(Name = "How did you hear about us?", Order = 3)]

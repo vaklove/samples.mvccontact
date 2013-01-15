@@ -11,7 +11,7 @@ using System;
 using System.Globalization;
 using System.Web;
 
-namespace maxtoroq.apps.web.contact {
+namespace apps.web.contact {
 
    class ContactResources {       
       

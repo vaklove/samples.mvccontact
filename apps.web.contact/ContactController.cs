@@ -20,7 +20,7 @@ using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.UI;
 
-namespace maxtoroq.apps.web.contact {
+namespace apps.web.contact {
    
    [OutputCache(Location = OutputCacheLocation.None)]
    public class ContactController : Controller {

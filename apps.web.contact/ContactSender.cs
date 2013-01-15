@@ -18,7 +18,7 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 
-namespace maxtoroq.apps.web.contact {
+namespace apps.web.contact {
    
    public class ContactSender {
 
