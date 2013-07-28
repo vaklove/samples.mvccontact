@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using MvcCodeRouting;
-using apps.web.contact;
+using maxtoroq.apps.web.contact;
 
 namespace Samples {
    

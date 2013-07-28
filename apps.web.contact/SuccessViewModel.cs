@@ -17,7 +17,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace apps.web.contact {
+namespace maxtoroq.apps.web.contact {
    
    class SuccessViewModel {
 

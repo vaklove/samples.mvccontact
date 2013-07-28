@@ -19,7 +19,7 @@ using System.Text;
 using System.Web.Management;
 using System.Reflection;
 
-namespace apps.web.contact {
+namespace maxtoroq.apps.web.contact {
 
    /// <summary>
    /// Provides a set of static (Shared in Visual Basic) methods to easily raise ASP.NET 

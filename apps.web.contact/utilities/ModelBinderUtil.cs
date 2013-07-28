@@ -19,7 +19,7 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 
-namespace apps.web.contact {
+namespace maxtoroq.apps.web.contact {
    
    static class ModelBinderUtil {
 
