@@ -156,7 +156,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\apps.web.contact\maxtoroq.apps.contact.csproj">
+    <ProjectReference Include="..\apps.contact\maxtoroq.apps.contact.csproj">
       <Project>{9e2767e6-e144-49e1-8939-c80dbbf272b8}</Project>
       <Name>maxtoroq.apps.contact</Name>
     </ProjectReference>
