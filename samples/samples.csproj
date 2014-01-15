@@ -150,7 +150,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\apps.contact\maxtoroq.apps.contact.csproj">
+    <ProjectReference Include="..\samples.mvccontact\maxtoroq.samples.mvccontact.csproj">
       <Project>{9e2767e6-e144-49e1-8939-c80dbbf272b8}</Project>
       <Name>maxtoroq.samples.mvccontact</Name>
     </ProjectReference>

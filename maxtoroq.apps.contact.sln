@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxtoroq.samples.mvccontact", "samples.mvccontact\maxtoroq.apps.contact.csproj", "{9E2767E6-E144-49E1-8939-C80DBBF272B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxtoroq.samples.mvccontact", "samples.mvccontact\maxtoroq.samples.mvccontact.csproj", "{9E2767E6-E144-49E1-8939-C80DBBF272B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samples", "samples\samples.csproj", "{120986FD-A396-46D9-A46C-55CC70DB284D}"
 EndProject
