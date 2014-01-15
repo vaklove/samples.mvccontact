@@ -18,7 +18,7 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 
-namespace maxtoroq.apps.contact {
+namespace maxtoroq.samples.mvccontact {
    
    public static class HtmlUtil {
 

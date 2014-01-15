@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using maxtoroq.apps.contact;
+using maxtoroq.samples.mvccontact;
 
 namespace Samples.Models {
    

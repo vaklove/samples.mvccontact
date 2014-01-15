@@ -17,7 +17,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Globalization;
 
-namespace maxtoroq.apps.contact {
+namespace maxtoroq.samples.mvccontact {
    
    static class StringExtensions {
 

@@ -18,7 +18,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 
-namespace maxtoroq.apps.contact {
+namespace maxtoroq.samples.mvccontact {
    
    public class ContactInput {
 
